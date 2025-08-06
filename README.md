@@ -1,2 +1,3 @@
-# nlp101
-Notebook written based on university lectures on NLP.
+# Introduction to NLP 
+A self-study notebook written based on NLP lectures.
+
